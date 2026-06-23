@@ -2,3 +2,4 @@ apify_raw.json
 *.py
 __pycache__/
 .apify_token
+HANDOFF.md
